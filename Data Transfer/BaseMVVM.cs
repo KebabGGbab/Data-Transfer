@@ -4,7 +4,7 @@ using System.Runtime.CompilerServices;
 namespace Data_Transfer
 {
     /// <summary>
-    /// Базовый функционал для всех View и ViewModel.
+    /// Базовый функционал для всех Model и ViewModel.
     /// </summary>
     public abstract class BaseMVVM : INotifyPropertyChanged
     {
